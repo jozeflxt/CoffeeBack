@@ -1,0 +1,109 @@
+
+
+Lista de sensores:
+
+Nombre: Goldfish 3-axis Accelerometer
+Resolución: 2.480159E-4
+Vendor: The Android Open Source Project
+Tipo: 1
+
+
+Nombre: Goldfish 3-axis Gyroscope
+Resolución: 0.001
+Vendor: The Android Open Source Project
+Tipo: 4
+
+
+Nombre: Goldfish 3-axis Magnetic field sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 2
+
+
+Nombre: Goldfish Orientation sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 3
+
+
+Nombre: Goldfish Temperature sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 13
+
+
+Nombre: Goldfish Proximity sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 8
+
+
+Nombre: Goldfish Light sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 5
+
+
+Nombre: Goldfish Pressure sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 6
+
+
+Nombre: Goldfish Humidity sensor
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 12
+
+
+Nombre: Goldfish 3-axis Magnetic field sensor (uncalibrated)
+Resolución: 1.0
+Vendor: The Android Open Source Project
+Tipo: 14
+
+
+Nombre: Game Rotation Vector Sensor
+Resolución: 5.9604645E-8
+Vendor: AOSP
+Tipo: 15
+
+
+Nombre: GeoMag Rotation Vector Sensor
+Resolución: 5.9604645E-8
+Vendor: AOSP
+Tipo: 20
+
+
+Nombre: Gravity Sensor
+Resolución: 2.480159E-4
+Vendor: AOSP
+Tipo: 9
+
+
+Nombre: Linear Acceleration Sensor
+Resolución: 2.480159E-4
+Vendor: AOSP
+Tipo: 10
+
+
+Nombre: Rotation Vector Sensor
+Resolución: 5.9604645E-8
+Vendor: AOSP
+Tipo: 11
+
+
+Nombre: Orientation Sensor
+Resolución: 0.00390625
+Vendor: AOSP
+Tipo: 3
+
+
+
+
+
+Número de satelites 
+0
+
+Número de satelites usados en la última geolocalización
+0
+
